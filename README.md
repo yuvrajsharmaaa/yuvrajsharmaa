@@ -62,11 +62,13 @@ I love building cool things with AI, AR/VR, and blockchain—mostly in real esta
 
 ---
 
-## 🐍 GitHub Snake Animation
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yuvrajsharmaaa/yuvrajsharmaaa/output/snake.svg" alt="Snake animation">
-</p>
+###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/yuvrajsharmaaa/yuvrajsharmaaa/output/snake.svg" alt="Snake animation" />
+
+###
 ---
 
 ## ✍️ Random Dev Quote
